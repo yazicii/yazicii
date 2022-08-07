@@ -1,7 +1,7 @@
-                            Hi there 👋 I'm Oğuzhan YAZICI
+Hi there 👋 I'm Oğuzhan YAZICI
+-
+A Software QA Engineer
 
-                                A Software QA Engineer
----
 I was born in Trabzon in 1997. I graduated from Kocaeli University, Department of Environmental Engineering. I want to a software QA engineer. I'm interested in software tests.
 
 <!--
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
----
+
 Connect with me
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/yazicii) 
